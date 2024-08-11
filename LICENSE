@@ -1,0 +1,39 @@
+problemsList = {
+            1: [
+                "[ 1 ] Alto ângulo de ataque.",
+                "[ 2 ] Falta de estabilidade durante o voo.", 
+                "[ 3 ] Super estabilidade durante o voo."
+                ],
+
+            2: [
+                "[ 1 ] Não houve leitura por parte do sensor barométrico.", 
+                "[ 2 ] Os dados não foram armazenados no micro SD.", 
+                "[ 3 ] O quibe não foi ativado."
+                ],
+
+            3: [
+                "", 
+                "", 
+                ""
+                ],
+
+            4: [
+                "", 
+                "", 
+                ""
+                ],
+
+            5: [
+                "", 
+                "", 
+                ""
+                ]
+        }
+
+        resolutionList = {
+            1: ["", "", ""],
+            2: ["", "", ""],
+            3: ["", "", ""],
+            4: ["", "", ""],
+            5: ["", "", ""]
+        }
